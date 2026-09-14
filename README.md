@@ -283,26 +283,6 @@ to find your coordinates.
 
 ---
 
-## 🧪 Testing
-
-It is recommended to test each important component separately.
-
-### Test Gemini
-
-```bash
-python test_gemini.py
-```
-
-This verifies that Gemini can generate a reply.
-
-### Test Message Box
-
-```bash
-python test_message.py
-```
-
-This verifies the PyAutoGUI message-box interaction.
-
 ---
 
 ## ▶️ Running the Bot
