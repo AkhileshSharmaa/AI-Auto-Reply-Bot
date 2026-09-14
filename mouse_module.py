@@ -1,13 +1,13 @@
 import pyautogui
 import time
 
-BROWSER_ICON = (655, 750)
+BROWSER_ICON = (373, 246)
 
-CHAT_START = (565, 191)
+CHAT_START = (535, 1252
 
-CHAT_END = (608, 482)
+CHAT_END = (648, 882)
 
-MESSAGE_BOX = (186, 616)
+MESSAGE_BOX = (386, 416)
 
 
 def open_browser():
