@@ -177,20 +177,6 @@ Move the mouse around the screen to identify the required X and Y coordinates.
 
 ---
 
-### `test_gemini.py`
-
-Tests the Gemini integration independently from the rest of the bot.
-
-This makes it possible to verify that the Gemini API is working before running the automation.
-
----
-
-### `test_message.py`
-
-Tests the message-box interaction separately.
-
-It can be used to verify that PyAutoGUI is clicking the correct message box and pasting text in the correct location.
-
 ---
 
 ## 🛠️ Requirements
