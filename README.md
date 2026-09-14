@@ -32,8 +32,6 @@ AI-Auto-Reply-Bot/
 ├── chat_module.py
 ├── mouse_module.py
 ├── get_coordinates.py
-├── test_gemini.py
-├── test_message.py
 │
 └── requirements.txt
 ```
